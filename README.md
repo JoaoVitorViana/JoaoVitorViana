@@ -1,5 +1,5 @@
 #### Hi! 
-Meu nome é João, sou tecnólogo em Análise e Desenvolvimento de Sistemas e atuo com desenvolvimento de software desde 2014.
+Meu nome é João, sou Tecnólogo em Análise e Desenvolvimento de Sistemas e atuo com desenvolvimento de software desde 2014.
 
 <div>
   <a href="https://github.com/JoaoVitorViana">
