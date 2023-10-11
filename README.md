@@ -1,6 +1,7 @@
 <h1>Olá! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vianajoao/)](https://www.linkedin.com/in/vianajoao/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.vianatecnologia.com.br/)](https://www.vianatecnologia.com.br/)
 
 ## Meu nome é João,
 (C# | ASP .NET Core | React Native | React JS | Javascript | HTML | CSS | Typescript | Android | Microsoft SQL Server) 🚀
