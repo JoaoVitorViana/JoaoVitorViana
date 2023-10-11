@@ -1,5 +1,11 @@
-#### Hi! 
-Meu nome é João,
+<h1>Olá! 👋</h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vianajoao/)](https://www.linkedin.com/in/vianajoao/)
+
+## Meu nome é João,
+(C# | ASP .NET Core | React Native | React JS | Javascript | HTML | CSS | Typescript | Android | Microsoft SQL Server) 🚀
+
+- 👨‍💻 Analista de Tecnologia da Informação @[Universidade Federal de Mato Grosso](https://www.ufmt.br/)
 
 <div>
   <a href="https://github.com/JoaoVitorViana">
